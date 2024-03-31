@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(pexels-moose-photos-1037992.jpg);
+    
+}
+select{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px 1px rgb(126, 61, 61);
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(227, 78, 138);
+    color: #6b1645;
+}
